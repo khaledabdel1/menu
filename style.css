@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table, td {
+    
+    color: aliceblue;
+    width: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th{
+    color: orange;
+}
+#img1{
+    position: absolute;
+    left:20%;
+    width: 100px;
+    height: 100%;
+}
